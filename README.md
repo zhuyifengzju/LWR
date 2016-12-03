@@ -1,0 +1,2 @@
+# LWR
+locally weighted regression
